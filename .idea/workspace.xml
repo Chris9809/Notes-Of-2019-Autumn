@@ -25,13 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/计算机网络 第三章.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="239">
-                <caret line="593" lean-forward="true" selection-start-line="593" selection-end-line="593" />
+                <caret line="593" selection-start-line="593" selection-end-line="593" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/软件测试课堂笔记.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -50,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="796" />
@@ -61,6 +71,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,14 +83,17 @@
             <path>
               <item name="2019秋季笔记" type="b2602c69:ProjectViewProjectNode" />
               <item name="2019秋季笔记" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019秋季笔记" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019秋季笔记" type="462c0819:PsiDirectoryNode" />
               <item name="PDF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="CatdeaLogs" />
     </panes>
   </component>
@@ -126,6 +141,7 @@
       <workItem from="1569286675265" duration="59000" />
       <workItem from="1569741248588" duration="253000" />
       <workItem from="1569741574403" duration="542000" />
+      <workItem from="1570349224392" duration="200000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1568869179502</created>
@@ -183,17 +199,23 @@
       <option name="project" value="LOCAL" />
       <updated>1569741620643</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="当前版本：2019年10月06日16:09:00 软件测试笔记更新，完成第一章和第二章（没有PDF版本）">
+      <created>1570349353316</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570349353316</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3420000" />
+    <option name="totallyTimeSpent" value="3620000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1600" y="23" width="1600" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="796" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18228498" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20529328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -207,9 +229,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.21146497" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.21022727" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.21022727" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.2947814" />
       <window_info anchor="bottom" id="MyBatis Log" order="12" />
@@ -236,7 +258,8 @@
     <MESSAGE value="当前版本：2019年09月23日22:29:04" />
     <MESSAGE value="当前版本：2019年09月29日15:15:36 完善设计模式部分" />
     <MESSAGE value="当前版本：2019年09月29日15:19:54 完善设计模式部分，加入工厂模式解释笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="当前版本：2019年09月29日15:19:54 完善设计模式部分，加入工厂模式解释笔记" />
+    <MESSAGE value="当前版本：2019年10月06日16:09:00 软件测试笔记更新，完成第一章和第二章（没有PDF版本）" />
+    <option name="LAST_COMMIT_MESSAGE" value="当前版本：2019年10月06日16:09:00 软件测试笔记更新，完成第一章和第二章（没有PDF版本）" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/软件设计 第一讲.md">
@@ -271,8 +294,16 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="239">
-            <caret line="593" lean-forward="true" selection-start-line="593" selection-end-line="593" />
+            <caret line="593" selection-start-line="593" selection-end-line="593" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/软件测试课堂笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
